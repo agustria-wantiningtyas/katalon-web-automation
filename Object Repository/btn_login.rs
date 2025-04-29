@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_login</name>
+   <tag></tag>
+   <elementGuidId>a4de67a5-cd3a-4ad8-880a-223157b6b147</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.font-sans.rounded-lg.px-4.py-3.my-2.h-10.flex.justify-center.items-center.font-bold.text-base.button.bg-green-50.text-white.text-base.py-2.px-4.w-full</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn_action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
